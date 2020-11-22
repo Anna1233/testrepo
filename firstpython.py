@@ -1,0 +1,2 @@
+#Display outout
+print("Output")
